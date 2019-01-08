@@ -1,0 +1,37 @@
+.chronoForm{
+
+}
+body{
+    background-color: azure
+
+}
+#monh1{
+    padding-top: 5%;
+
+    font-size: 80px;
+    
+    font-family: 'Thasadith', sans-serif;
+    color: gray;
+
+
+}
+#chronotime{
+
+    font-size: 50px;
+    text-align: center;
+    width: 600px;
+    border: gray solid 1px;
+    outline: none;
+}
+.btn-outline-primary{
+    width: 150px;
+    outline: none;
+
+}
+.btn-outline-danger{
+    width: 150px;
+    margin-left: 20px;
+    outline: none;
+
+
+}
